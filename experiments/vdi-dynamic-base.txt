@@ -1,4 +1,4 @@
-UUID:           269a586a-4e33-4bf7-a145-48f269bc55bb
+UUID:           00000000-0000-4000-8000-000000000001
 Parent UUID:    base
 State:          created
 Type:           normal (base)
