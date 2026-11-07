@@ -1,0 +1,5 @@
+State:          created
+Type:           normal (base)
+Format variant: fixed default
+Capacity:       82015 MBytes
+Size on disk:   82015 MBytes

@@ -1,0 +1,9 @@
+UUID:           269a586a-4e33-4bf7-a145-48f269bc55bb
+Parent UUID:    base
+State:          created
+Type:           normal (base)
+Storage format: VDI
+Format variant: dynamic default
+Capacity:       82015 MBytes
+Size on disk:   61257 MBytes
+Encryption:     disabled

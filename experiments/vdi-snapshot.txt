@@ -1,0 +1,5 @@
+State:          created
+Type:           normal
+Format variant: dynamic default
+Capacity:       82015 MBytes
+Size on disk:   61257 MBytes
